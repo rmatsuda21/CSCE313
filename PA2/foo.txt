@@ -1,0 +1,7 @@
+total 328
+drwxr-xr-x   6 reomatsuda  staff     192 Sep 13 13:14 .
+drwxr-xr-x  11 reomatsuda  staff     352 Sep  9 23:55 ..
+-rw-r--r--   1 reomatsuda  staff  126987 Sep 13 13:09 Implementing a Linux Shell.pdf
+-rw-r--r--   1 reomatsuda  staff       0 Sep 13 13:14 foo.txt
+-rwxr-xr-x   1 reomatsuda  staff   32480 Sep 13 13:14 test
+-rw-r--r--   1 reomatsuda  staff     854 Sep 13 13:13 test.cpp
